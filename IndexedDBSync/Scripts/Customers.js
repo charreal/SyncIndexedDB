@@ -33,7 +33,7 @@ var dbConfig = {
 var db = window.linq2indexedDB(config.dbName, dbConfig, false);
 
 $(function () {
-
+    // debugger;
     db.initialize().then(function () {
         InitializeData();
     }, handleError);
@@ -88,6 +88,7 @@ $(function () {
             }, handleError);
         });
     });
+
     $('#btnSyncServer').click(function () {
         var customers = [];
         db.linq.from(config.objectStoreName).select().then(function () {
@@ -121,6 +122,7 @@ $(function () {
     });
 
     $('#btnSyncLocal').click(function () {
+        // debugger;
         $.ajax({
             url: 'api/service?revision=' + localStorage.customerRevision,
             type: 'GET',
@@ -138,6 +140,7 @@ $(function () {
 });
 
 function syncData(data) {
+    // debugger;
     var emails = [];
     db.linq.from(config.objectStoreName).select(["Email"]).then(function () {
         $.each(data.Customers, function () {
@@ -164,6 +167,7 @@ function syncData(data) {
 
 
 function InitializeData() {
+    // debugger;
     var content = $('#contentHolder');
     var table = $('<table id="tblCustomer" class="ui-widget ui-widget-content"></table>');
     content.append(table);
@@ -206,6 +210,7 @@ function getAllEmails() {
 
 }
 function showCustomer(data) {
+    // debugger;
     var row = $('tr[value="' + data.Email + '"]');
     if (row.length > 0) {
         row.empty();

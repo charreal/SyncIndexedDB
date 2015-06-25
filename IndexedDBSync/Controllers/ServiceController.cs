@@ -103,7 +103,7 @@ namespace IndexedDBSync.Controllers
                                 cust.Revision = currentRevision + 1;
                                 cust.LastModifiedDate = DateTime.Now;
                                 cust.LastModifiedBy = appID;
-                                context.Customers.AddObject(cust);
+                                context.Customers.Add(cust);
                             }
                             else
                             {

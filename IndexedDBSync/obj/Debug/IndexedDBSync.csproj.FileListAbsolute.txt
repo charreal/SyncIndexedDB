@@ -28,3 +28,31 @@ E:\Test Projects\Web\IndexedDBSync\IndexedDBSync\IndexedDBSync\bin\System.Web.We
 E:\Test Projects\Web\IndexedDBSync\IndexedDBSync\IndexedDBSync\obj\Debug\ResolveAssemblyReference.cache
 E:\Test Projects\Web\IndexedDBSync\IndexedDBSync\IndexedDBSync\obj\Debug\IndexedDBSync.dll
 E:\Test Projects\Web\IndexedDBSync\IndexedDBSync\IndexedDBSync\obj\Debug\IndexedDBSync.pdb
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\IndexedDBSync.dll.config
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\IndexedDBSync.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\IndexedDBSync.pdb
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\Newtonsoft.Json.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Net.Http.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Net.Http.WebRequest.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.Helpers.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.Mvc.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.Razor.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.WebPages.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.WebPages.Razor.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\Newtonsoft.Json.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Net.Http.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Net.Http.WebRequest.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.Helpers.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.Mvc.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.Razor.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.WebPages.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\System.Web.WebPages.Razor.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\obj\Debug\IndexedDBSync.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\obj\Debug\IndexedDBSync.pdb
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\EntityFramework.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\EntityFramework.SqlServer.dll
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\EntityFramework.xml
+C:\Users\rchartrand\Documents\GitHub\SyncIndexedDB\IndexedDBSync\bin\EntityFramework.SqlServer.xml
